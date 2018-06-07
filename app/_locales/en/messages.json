@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Gitosoft",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Turn all the little green GitHub squares into Microsoft logos.",
+    "description": "The description of the application"
+  }
+}

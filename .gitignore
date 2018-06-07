@@ -1,0 +1,5 @@
+dist.crx
+dist.pem
+dist/
+node_modules/
+app/scripts/
